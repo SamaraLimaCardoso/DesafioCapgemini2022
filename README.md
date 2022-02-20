@@ -14,7 +14,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 #Clonar o  repositório
-$ git clone https://github.com/DesafioCapgemini2022
+$ git clone https://github.com/SamaraLimaCardoso/DesafioCapgemini2022.git
 
 #Entrar no diretório
 $ cd DesafioCapgemini2022
